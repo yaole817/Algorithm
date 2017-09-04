@@ -96,3 +96,6 @@ ENV/
 
 #image
 *.jpg
+
+#vscode
+.vscode
